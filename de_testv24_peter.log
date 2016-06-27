@@ -1,0 +1,187 @@
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.vmf
+Map revision 10
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107443 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 153 texinfos to 99
+Reduced 17 texdatas to 16 (424 bytes to 370)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.prt
+ 527 portalclusters
+1595 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 496 visible clusters (0.00%)
+Total clusters visible: 146435
+Average clusters visible: 277
+Building PAS...
+Average clusters audible: 521
+visdatasize:73272  compressed from 75888
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.bsp
+1 minute, 42 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.bsp
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\chainlink_fence_001\chainlink_fence_wire_001_mip0.vtf
+1736 faces
+1638774 square feet [235983472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1736 patches before subdivision
+45816 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2129835, max 546
+transfer lists:  16.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(82973, 54667, 44309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(31078, 7182, 1246)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10415, 900, 218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3990, 142, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1597, 27, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(668, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(289, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(129, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0105 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                299/8192         3588/98304    ( 3.6%) 
+brushsides            2068/65536       16544/524288   ( 3.2%) 
+planes                1352/65536       27040/1310720  ( 2.1%) 
+vertexes              2555/65536       30660/786432   ( 3.9%) 
+nodes                 1174/65536       37568/2097152  ( 1.8%) 
+texinfos                99/12288        7128/884736   ( 0.8%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1736/65536       97216/3670016  ( 2.6%) 
+hdr faces             1736/65536       97216/3670016  ( 2.6%) 
+origfaces              746/65536       41776/3670016  ( 1.1%) 
+facebrushes            368/0             736/0        ( 0.0%) 
+facebrushlists        1736/0            6944/0        ( 0.0%) 
+leaves                1185/65536       37920/2097152  ( 1.8%) 
+leaffaces             1934/65536        3868/131072   ( 3.0%) 
+leafbrushes            829/65536        1658/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11097/512000      44388/2048000  ( 2.2%) 
+edges                 6025/256000      24100/1024000  ( 2.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         11/8192         1100/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2502/65536        5004/131072   ( 3.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1755020/0        ( 0.0%) 
+visdata               [variable]       73272/16777216 ( 0.4%) 
+entdata               [variable]        7342/393216   ( 1.9%) 
+LDR ambient table     1185/65536        4740/262144   ( 1.8%) 
+HDR ambient table     1185/65536        4740/262144   ( 1.8%) 
+LDR leaf ambient      1185/65536       33180/1835008  ( 1.8%) 
+HDR leaf ambient      5576/65536      156128/1835008  ( 8.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3808     ( 0.0%) 
+pakfile               [variable]      566639/0        ( 0.0%) 
+physics               [variable]      107443/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1e
+
+Total triangle count: 4642
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lewis--maps\de_testv24_peter.bsp
+1 minute, 8 seconds elapsed
